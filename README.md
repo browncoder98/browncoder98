@@ -1,11 +1,11 @@
-# Aditya Kar
-[![](https://visitcount.itsvg.in/api?id=akar016012&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
+# Rakin Riza
+[![](https://visitcount.itsvg.in/api?id=browncoder98&label=Profile%20Views&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <a href="https://www.adiportfolio.com/Images/Aditya%20Kar-Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/My%20Resume-000?label=Download"/></a>
 
 <h2 >GitHub Stats</h2>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akar016012&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=browncoder98&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=browncoder98&theme=dark&hide_border=false" />
 </p>
 
