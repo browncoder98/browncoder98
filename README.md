@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Qualfon Data Services Group as a Full Stack Software Developer<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Next.js and Tailwind CSS<br>💬 Ask me about Cricket<br>⚡ Fun fact: I'm extremely good at Ping Pong 
+🔭 I’m currently working at Qualfon Data Services Group (https://www.qualfon.com/) as a Full Stack Software Developer<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning Next.js and Tailwind CSS<br>💬 Ask me about Cricket<br>⚡ Fun fact: I'm extremely good at Ping Pong 
 
 
 ## 🌐 Socials:
